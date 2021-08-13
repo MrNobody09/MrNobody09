@@ -11,9 +11,10 @@
 
 Languages and Tools:
 
-![image](https://user-images.githubusercontent.com/75740971/129340461-3f10286b-f051-4b12-81b2-30975423a5a7.png)
-![image](https://user-images.githubusercontent.com/75740971/129340367-5a3f9f49-69f2-4554-be56-55eb73d70958.png)
-![image](https://user-images.githubusercontent.com/75740971/129340521-2f588939-ff41-4f4d-ad0b-2e7465de434d.png)
-![image](https://user-images.githubusercontent.com/75740971/129340556-34e8835e-7698-4bf1-b9c1-39f44fef89eb.png)
+![image](https://user-images.githubusercontent.com/75740971/129345047-996e3f6b-e65c-401f-b2da-a7b8dbd8de6a.png)
+![image](https://user-images.githubusercontent.com/75740971/129345030-9af121b4-691e-45d1-9a41-af0405c375e5.png)
+![image](https://user-images.githubusercontent.com/75740971/129345093-e3649319-5979-4c68-839b-474ef8296fa5.png)
+
+
 
 
